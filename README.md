@@ -1,7 +1,7 @@
-![XENO SIR's card name](https://sparkycardview.vercel.app/api?name=XENO%20SIR&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://xenocdn.vercel.app/x/35763336/iqnm.png&backgroundColor=%23ecf0f1&instagram=4dix_thyan_&linkedin=&github=xenosir&pattern=leaf&colorPattern=%23eaeaea)
+![XENO SIR's card name](https://sparkycardview.vercel.app/api?name=XENO%20SIR&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://xenocdn.vercel.app/x/35763336/iqnm.png&backgroundColor=%23ecf0f1&instagram=4dix_thyan_&linkedin=&github=XENO-SIR-MD&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=xenosir&label=Profile%20views" alt="X-E-N-O-S-I-R" style="width: 150px;" />  
+  <img src="https://komarev.com/ghpvc/?username=XENO-SIR-MD&label=Profile%20views" alt="X-E-N-O-S-I-R" style="width: 150px;" />  
 </p>  
 
 <div align="center">   
