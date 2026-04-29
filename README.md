@@ -29,7 +29,7 @@
 <div align="center">  
   <h2>🐍 My Contributions 🐍</h2>  
 <br>    
-      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xenosir/xenosir/output/github-contribution-grid-snake.svg" />  <br/><br/><br/>  
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xenosir/XENO-SIR-MD/output/github-contribution-grid-snake.svg" />  <br/><br/><br/>  
 </div>  
 <hr/>  
 
@@ -37,10 +37,10 @@
 <br/>  
 
 <div align="center">  
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xenosir&count_private=true&theme=react&border_radius=10" alt="streak stats" />  
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=xenosir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=XENO-SIR-MD&count_private=true&theme=react&border_radius=10" alt="streak stats" />  
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=XENO-SIR-MD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
   <br/>  
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=xenosir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />  
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=XENO-SIR-MD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />  
 </div>  
 
 <hr/>  
