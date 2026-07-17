@@ -8,7 +8,7 @@
   <a href="mailto:xdxeno0@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
   </a>  
-  <a href="https://xenosir.vercel.app" target="_blank">  
+  <a href="https://adithyan.zone.id" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />  
   </a>  
   <a href="https://instagram.com/xeno_exex" target="_blank">  
