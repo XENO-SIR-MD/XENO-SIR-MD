@@ -11,7 +11,7 @@
   <a href="https://adithyan.zone.id" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />  
   </a>  
-  <a href="https://instagram.com/xeno_exex" target="_blank">  
+  <a href="https://instagram.com/4dix_thyan" target="_blank">  
     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a>  
 </div>  
