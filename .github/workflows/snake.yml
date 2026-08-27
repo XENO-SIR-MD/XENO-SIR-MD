@@ -1,3 +1,7 @@
+# XENO EXE HERE
+
+
+
 name: GitHub Snake Game
 
 on:
@@ -8,10 +12,10 @@ on:
     branches:
       - main
 
-# --- ADD THIS BLOCK START ---
+
 permissions:
   contents: write
-# --- ADD THIS BLOCK END ---
+
 
 jobs:
   generate:
